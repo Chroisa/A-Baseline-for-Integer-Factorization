@@ -1,4 +1,8 @@
-A Baseline for Integer Factorization - Complete dataset:
+A Baseline for Integer Factorization
+
+**Paper [here](https://github.com/Chroisa/A-Baseline-for-Integer-Factorization/raw/refs/heads/master/A%20Baseline%20for%20Integer%20Factorization%20Performance.pdf)**
+
+Complete dataset:
 
 **[Summary spreadsheet](https://github.com/Chroisa/A-Baseline-for-Integer-Factorization/raw/refs/heads/master/intfactcharts-en.xlsx)**
 
